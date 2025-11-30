@@ -1,11 +1,9 @@
 # Coffee Coaster PCB (art)
 
-![Coffee Coaster](images/1.jpg)
-
+![Coffee Coaster](images/1.png)
 
 ## Description
-Novelty coffee coasters made out of PCB with electronic related puns. Includes a holder for 5 coasters.
-
+Novelty coffee coasters made out of PCB with electronic related puns. Includes a 3D printable holder for up to 5 coasters.
 
 ## Support Me
 * [My Projects](https://projects.amiga-hardware.com) - Donate on this page
